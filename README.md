@@ -18,7 +18,7 @@ This is a simple Python script that adds password protection to a PDF file using
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/yourusername/protect-pdf.git
+    [git clone https://github.com/yourusername/protect-pdf.git](https://github.com/Abhishek-390/PDF-Protector-Tool.git)
     cd protect-pdf
     ```
 
